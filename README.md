@@ -3,7 +3,7 @@
 ### User Experience Courses
 Attractive UX design is essential for information services that captivate people. In the User Experience courses, I learned basic design knowledge and delved deeply into designing "the relationship between humans and computers." I acquired practical knowledge and skills to bring new ideas to life.
 
-#### Example Courses
+Example Courses
 - Design Theory
 - UX Design
 - Human-Computer Interaction
@@ -11,7 +11,7 @@ Attractive UX design is essential for information services that captivate people
 ### Data Science Courses
 In the era of IoT (Internet of Things), vast amounts of information are continuously generated worldwide. The ability to interpret this big data and solve societal challenges is indispensable in all future business fields. In the Data Science courses, I built on statistical analysis knowledge, utilized machine learning and AI (artificial intelligence) technologies, and acquired the knowledge and skills to analyze big data.
 
-#### Example Courses
+Example Courses
 - Introduction to Data Science
 - Data Mining
 - Machine Learning and Artificial Intelligence
