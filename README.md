@@ -1,8 +1,3 @@
-<!-- 1. GitHub ユーザー名を変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=s1f10220252" />
-</div>
-
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
