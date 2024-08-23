@@ -1,21 +1,13 @@
-## Major
+## Major | Data Science
 
-### User Experience Courses
-Attractive UX design is essential for information services that captivate people. In the User Experience courses, I learned basic design knowledge and delved deeply into designing "the relationship between humans and computers." I acquired practical knowledge and skills to bring new ideas to life.
+#### 1年次
+データサイエンスの基礎となる記述統計学と推測統計学の基礎を学びました。具体的には、度数分布、記述統計の指標（平均、分散など）、確率、確率分布、標本分布、統計的推測（点推定、信頼区間など）です。
 
-Example Courses
-- Design Theory
-- UX Design
-- Human-Computer Interaction
+#### 2年次
+1年次に学んだ確率・統計学の基礎を応用し、より実践的なデータ解析の手法に触れました。Pythonのnumpy, pandas, matplotlibといったライブラリを用いた、実際のデータの処理、分析、可視化。大量データから有用な情報を抽出するデータマイニングの手法。記述統計学、推測統計学の代表的な手法、仮説検定や分散分析などを行いました。また、マーケティングの分野における統計分析の授業では、POSデータや顧客アンケートデータといった実際のデータを用いた分析を。バイオインフォマティクスを概観する授業では、生命科学データの蓄積や解析方法の基礎を学びました。
 
-### Data Science Courses
-In the era of IoT (Internet of Things), vast amounts of information are continuously generated worldwide. The ability to interpret this big data and solve societal challenges is indispensable in all future business fields. In the Data Science courses, I built on statistical analysis knowledge, utilized machine learning and AI (artificial intelligence) technologies, and acquired the knowledge and skills to analyze big data.
-
-Example Courses
-- Introduction to Data Science
-- Data Mining
-- Machine Learning and Artificial Intelligence
-- Deep Learning
+#### 3年次
+データサイエンスの応用範囲を広げ、より専門的な知識・スキルを習得しました。機械学習に焦点を当て、Pythonを用いて分類・数値予測器を構築する方法や、実務で頻繁に遭遇する欠損データなどを統計的に適切に処理する方法について学びました。
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
