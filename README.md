@@ -4,7 +4,6 @@
 |-------------------|------------|------------------------|------------------------|--------------|
 | • web API etc.<br>• Crawling & Scraping<br>• Jupyter + np / pd | • matplotlib<br>• 動的グラフ<br>• コロプレス図<br>• 次元削減<br>　PCA, t-SNE, ... | • 推定 / 検定 /分散分析<br>• 線形・ロジスティック・ポアソン回帰<br>• クラスタリング<br>　階層型・非階層型<br>• PCA, 因子分析<br>• アソシエーション分析<br>• テキストマイニング<br>• 最適化 | • 統計解析の回帰 / クラスタリング<br>• Naïve Bayes分類器<br>• 機械学習(ML): NN, SVM, RF, AdaBoost, ...<br>　ハイパーパラメータ最適化<br>• 深層学習(DL): CNN, LSTM, テキストマイニング<br>• 精度評価とモデル選択(指標, CV)<br>• 協調フィルタリング | • VAE, GAN, diffusion<br>• 強化学習(RL) |
 
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 <div align="center">
 
 | Often Used | Others |
@@ -15,9 +14,19 @@
 
 </div>
 
-## Activities
-<!-- ライトモード：theme=light, ダークモード：theme=vue-dark  -->
+
+## 📈 Stats
 <div align="center"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=s1f10220252&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f10220252&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=s1f10220252&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars&theme=dark"/>
+  <img alt="github stats" height="245px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f10220252&layout=donut&theme=dark"/>
+
+  <a href="https://github.com/s1f10220252/">
+    <img src="https://github-profile-trophy.vercel.app/?username=s1f10220252&row=2&column=4&theme=onedark"/>
+  </a>
 </div>
+
+<!-- 
+Skill Icons: https://github.com/tandpfun/skill-icons
+GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
+GitHub Profile Trophy: https://github.com/ryo-ma/github-profile-trophy
+-->
