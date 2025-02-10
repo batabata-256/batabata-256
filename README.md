@@ -18,7 +18,7 @@
 ## 📈 Stats
 <div align="center"> 
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=s1f10220252&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars&theme=dark"/>
-  <img alt="github stats" height="245px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f10220252&layout=donut&theme=dark"/>
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f10220252&layout=donut&theme=dark"/>
 
   <a href="https://github.com/s1f10220252/">
     <img src="https://github-profile-trophy.vercel.app/?username=s1f10220252&row=2&column=4&theme=onedark"/>
