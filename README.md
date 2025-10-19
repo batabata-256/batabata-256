@@ -17,11 +17,11 @@
 
 ## 📈 Stats
 <div align="center"> 
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=s1f10220252&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars&theme=dark"/>
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f10220252&hide_progress=true&theme=dark"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=batabata-256&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars&theme=dark"/>
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batabata-256&hide_progress=true&theme=dark"/>
 
-  <a href="https://github.com/s1f10220252/">
-    <img src="https://github-profile-trophy.vercel.app/?username=s1f10220252&row=2&column=4&theme=onedark"/>
+  <a href="https://github.com/batabata-256/">
+    <img src="https://github-profile-trophy.vercel.app/?username=batabata-256&row=2&column=4&theme=onedark"/>
   </a>
 </div>
 
